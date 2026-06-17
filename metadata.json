@@ -1,0 +1,6 @@
+{
+  "name": "Elliot Kramarski Portfolio",
+  "description": "Professional Finance & International Management Portfolio of Elliot Kramarski, featuring multi-language support (EN, DE, FR, ES) and interactive financial tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
